@@ -11,4 +11,4 @@ This is the repository for **MultiComBat harmonization for multiple batch variab
 ## Repository information
 Functions for executing MultiComBat are found in **multicombat.py**.
 
-An example with simulated data can be found in **multicombat_demo.py**. This example obtains MultiComBat estimates from under-sampled training dataset, then applies these estimates to a much larger training dataset. Example outputs can be found in **demo_output**.
+An example with simulated data can be found in **multicombat_demo.py**. This example obtains MultiComBat estimates from under-sampled training dataset, then applies these estimates to a much larger testing dataset. Example outputs can be found in **demo_output**.
